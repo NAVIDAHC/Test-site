@@ -13,7 +13,7 @@ This project is a static web application built with HTML5, CSS3, and Vanilla Jav
 2. Your site will be live instantly.
 
 #### 2. GitHub Pages
-1. Push this repository to GitHub.
+1. Push this repository to GitHub.  s
 2. Go to Settings > Pages.
 3. Select the `main` branch and `/` root folder.
 4. Click Save.

@@ -1,0 +1,15 @@
+{
+  "name": "Father Saturnino Urios University",
+  "short_name": "FSUU",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a2332",
+  "theme_color": "#2EA3F2",
+  "icons": [
+    {
+      "src": "fsuu-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
